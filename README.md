@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently Persuing B. Tech in Computer Science.<br>💬 Ask me about any Web or App Development Related query.<br>👯 I’m looking to collaborate on React Native (Expo) applications, backend APIs using Node.js and Express, and DevOps-driven projects
+🌱 I’m currently Persuing B. Tech in Computer Science.<br>💬 Ask me about any Web or App Development Related query.<br>👯 I’m looking to collaborate on React applications, backend APIs using Node.js and Express, and DevOps-driven projects
 
 
 ## 🌐 Socials:
